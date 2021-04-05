@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximum Draws", "Maximum Draws\Maximum Draws.csproj", "{452C27FA-A3DA-466F-BCD6-E5C8C5BDE9C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{452C27FA-A3DA-466F-BCD6-E5C8C5BDE9C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{452C27FA-A3DA-466F-BCD6-E5C8C5BDE9C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{452C27FA-A3DA-466F-BCD6-E5C8C5BDE9C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{452C27FA-A3DA-466F-BCD6-E5C8C5BDE9C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6224C02-2170-4B39-9A51-C8E4865AD9E3}
+	EndGlobalSection
+EndGlobal
